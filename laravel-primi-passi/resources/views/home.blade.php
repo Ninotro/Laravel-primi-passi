@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Hello world!</h1>
+        <h1>Hello world! by {{$name}}, {{$surname}}</h1>
     </body>
 </html>
